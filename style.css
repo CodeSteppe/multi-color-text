@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+
 :root{
   --color1: #01579B;
   --color2: #00838F;
@@ -28,7 +29,7 @@ h1 {
   width: min-content;
   text-align: center;
   font-family: "Luckiest Guy", cursive;
-  font-size: 12vh;
+  font-size: 15vh;
   line-height: 100%;
   background:linear-gradient(225deg,
     var(--color1) 0%, var(--color1) 9%,
